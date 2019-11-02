@@ -1,0 +1,3 @@
+D:\PROJECTS\COP CHURCH MGT\CMS Second Edition\CMS Second Edition\obj\Debug\CMS Second Edition.exe
+D:\PROJECTS\COP CHURCH MGT\CMS Second Edition\CMS Second Edition\obj\Debug\CMS Second Edition.xml
+D:\PROJECTS\COP CHURCH MGT\CMS Second Edition\CMS Second Edition\obj\Debug\CMS Second Edition.pdb

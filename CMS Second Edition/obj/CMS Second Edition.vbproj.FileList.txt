@@ -1,0 +1,12 @@
+bin\Debug\CMS Second Edition.exe
+bin\Debug\CMS Second Edition.pdb
+bin\Debug\CMS Second Edition.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CMS_Second_Edition.Member_Profile.resources
+obj\Debug\CMS_Second_Edition.Resources.resources
+obj\Debug\CMS_Second_Edition.User_Account.resources
+obj\Debug\CMS Second Edition.vbproj.GenerateResource.Cache
+obj\Debug\CMS Second Edition.exe
+obj\Debug\CMS Second Edition.xml
+obj\Debug\CMS Second Edition.pdb
+obj\Debug\CMS_Second_Edition.Care_Group.resources
